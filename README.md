@@ -286,12 +286,6 @@ Recommended Tools
 - Grafana Dashboard
 - ArgoCD GitOps
 
----
-
-# 📸 Screenshots
-
-Add screenshots after deployment.
-
 Example
 
 - Login Page
